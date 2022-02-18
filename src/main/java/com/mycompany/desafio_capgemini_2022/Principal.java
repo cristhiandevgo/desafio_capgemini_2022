@@ -41,8 +41,8 @@ public class Principal {
         
         // Questão 3
         System.out.println("\nQuestão 3 - Anagrama");
-        //String anagrama = "ifailuhkqq";
-        String anagrama = "ovo";
+        String anagrama = "ifailuhkqq";
+//        String anagrama = "ovo";
         Questao_3 q3 = new Questao_3(anagrama);
         q3.valida_anagrama(q3.getAnagrama());
         

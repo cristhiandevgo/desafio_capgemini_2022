@@ -35,7 +35,7 @@ public class Questao_3 {
         // A lista de todos os anagramas pares são: [i, i], [q, q] e [ifa, fai] que estão nas posições [[0, 3]], [[8, 9]] e [[0, 1, 2], [1, 2, 3]].
         
         int quantidade = 0, i_aux = 0;
-        String aux = "";
+        StringBuilder aux = new StringBuilder();
         
         for(int i = 0; i < palavra.length(); i++){
             for(int j = i + 1; j < palavra.length(); j++){
@@ -45,10 +45,9 @@ public class Questao_3 {
                     System.out.println("arr[i][" + i + "]: " + palavra.charAt(i));
                     System.out.println("arr[j][" + j + "]: " + palavra.charAt(j));
                     System.out.println("");
-                    aux += palavra.charAt(i) + palavra.charAt(i+1);
+                    aux.append(palavra.charAt(i));
+                    aux.append(palavra.charAt(i+1));
                     quantidade++;
-                    System.out.println(palavra.charAt(i));
-                    System.out.println(palavra.charAt(i+1));
                 }
             }
         }
