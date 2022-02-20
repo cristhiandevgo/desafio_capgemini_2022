@@ -1,5 +1,4 @@
-# desafio_capgemini_2022
- DESAFIO DE PROG
+# DESAFIO DE PROGRAMAÇÃO - ACADEMIA CAPGEMINI - 2022
 
 # Informação do Aluno
 * Ivan Cristhian
