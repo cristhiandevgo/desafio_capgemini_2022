@@ -13,3 +13,4 @@ Info: Desenvolvido no ambiente:
 * Product Version: Apache NetBeans IDE 12.6
 * Java: 17.0.2; Java HotSpot(TM) 64-Bit Server VM 17.0.2+8-LTS-86
 * Runtime: Java(TM) SE Runtime Environment 17.0.2+8-LTS-86
+* Linguagem de Programação: JAVA
