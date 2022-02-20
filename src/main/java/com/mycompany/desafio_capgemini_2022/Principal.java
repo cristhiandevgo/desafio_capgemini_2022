@@ -16,7 +16,6 @@ public class Principal {
         
         System.out.println("DESAFIO DE PROGRAMAÇÃO - ACADEMIA CAPGEMINI - 2022");
         
-        /*
         // Questão 1
         System.out.println("\nQuestão 1 - Gerar Escada");
         Questao_1 q1 = new Questao_1(6);
@@ -37,7 +36,6 @@ public class Principal {
             senha = pw.next();
             q2.setSenha(senha);
         }
-        */
         
         // Questão 3
         System.out.println("\nQuestão 3 - Anagrama");

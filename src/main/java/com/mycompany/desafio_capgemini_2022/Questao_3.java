@@ -45,7 +45,6 @@ public class Questao_3 {
                     System.out.println("arr[i][" + i + "]: " + palavra.charAt(i));
                     System.out.println("arr[j][" + j + "]: " + palavra.charAt(j));
                     System.out.println("");
-                    aux.append(palavra.charAt(i));
                     aux.append(palavra.charAt(i+1));
                     quantidade++;
                 }
