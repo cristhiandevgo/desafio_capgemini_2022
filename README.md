@@ -1,5 +1,9 @@
 # desafio_capgemini_2022
- DESAFIO DE PROGRAMAÇÃO - ACADEMIA CAPGEMINI - 2022
+ DESAFIO DE PROG
+
+# Informação do Aluno
+* Ivan Cristhian
+* ivancristhian@hotmail.com
 
 # Instalação
 1. Clonar o repositório;
